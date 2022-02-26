@@ -29,3 +29,8 @@ I don't only write code, i think about the propper solution to solve a problem i
 <a href="https://www.linkedin.com/in/jhosephweb/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://t.me/JhosephG" target="_blank"><img src="https://img.shields.io/badge/Telegram-fff?style=for-the-badge&logo=telegram&logoColor=2CA5E0&color=2CA5E0"></a>
 <a href="https://discordapp.com/users/829051830746218527" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+
+
+
+    
+<a href="https://www.jhosephweb.dev/assets/curriculum.pdf" target="_blank">Click here to download my curriculum!</a>
